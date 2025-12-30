@@ -11,14 +11,10 @@
             "id": "b63e5958f7462608",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习之旅.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "学习之旅"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习之旅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "学习之旅 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习之旅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "学习之旅 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -169,7 +163,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "b63e5958f7462608",
+  "active": "16991300b6544a00",
   "lastOpenFiles": [
     "学习之旅.md"
   ]
