@@ -25,14 +25,13 @@
             "id": "62e3516ad6a7343a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "系统与网络编程/网络编程/Linux命令学习.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "Linux命令学习"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ],
@@ -184,15 +183,15 @@
   },
   "active": "62e3516ad6a7343a",
   "lastOpenFiles": [
+    "Pasted image 20251231134348.png",
     "未命名.base",
-    "c标准库的学习/新手村：标准的输入输出.md",
-    "2026-01-02.md",
     "系统与网络编程/网络编程/Linux命令学习.md",
+    "2026-01-02.md",
+    "c标准库的学习/新手村：标准的输入输出.md",
     "c标准库的学习/4.c",
     "c标准库的学习/hhh.c",
     "c标准库的学习/hj.c",
     "系统与网络编程/网络编程/TCPIP协议.md",
-    "Pasted image 20251231134348.png",
     "c标准库的学习/c标准库使用方法演示.md",
     "README.md",
     "c标准库的学习/stdio_learn.c",
