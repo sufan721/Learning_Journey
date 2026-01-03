@@ -25,13 +25,14 @@
             "id": "62e3516ad6a7343a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "系统与网络编程/网络编程/Linux命令学习.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Linux命令学习"
             }
           }
         ],
@@ -181,10 +182,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "62e3516ad6a7343a",
+  "active": "16991300b6544a00",
   "lastOpenFiles": [
-    "Pasted image 20251231134348.png",
     "未命名.base",
+    "Pasted image 20251231134348.png",
     "系统与网络编程/网络编程/Linux命令学习.md",
     "2026-01-02.md",
     "c标准库的学习/新手村：标准的输入输出.md",
