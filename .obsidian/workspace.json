@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0572f588dd90fa63",
+        "id": "a622d7dba766d3aa",
         "type": "tabs",
+        "dimension": 45.3091684434968,
         "children": [
           {
-            "id": "62e3516ad6a7343a",
+            "id": "b2ce9608f8a4b8bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,9 +21,16 @@
               "icon": "lucide-file",
               "title": "网络概述"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b7600defa888d503",
+        "type": "tabs",
+        "dimension": 54.69083155650319,
+        "children": [
           {
-            "id": "ef7a862c357bf805",
+            "id": "6791326d92958f60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +43,7 @@
               "title": "数据链路层"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "21778e84d4c16930",
@@ -179,16 +187,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef7a862c357bf805",
+  "active": "6791326d92958f60",
   "lastOpenFiles": [
     "系统与网络编程/网络编程/计算机网络/网络概述.md",
+    "系统与网络编程/网络编程/计算机网络/物理层.md",
     "系统与网络编程/网络编程/计算机网络/数据链路层.md",
-    "系统与网络编程/网络编程/计算机网络/未命名 1.md",
     "未命名.base",
     "系统与网络编程/网络编程/Linux命令学习.md",
+    "README.md",
+    "2026-01-08.md",
+    "未命名.canvas",
     "系统与网络编程/网络编程/计算机网络",
     "c标准库的学习/tempCodeRunnerFile.exe",
     "c标准库的学习/tempCodeRunnerFile.c",
@@ -202,7 +214,6 @@
     "c标准库的学习/hj.c",
     "系统与网络编程/网络编程/TCPIP协议.md",
     "c标准库的学习/c标准库使用方法演示.md",
-    "README.md",
     "c标准库的学习/stdio_learn.c",
     "系统与网络编程/c标准库的学习/新手村：C语言库的学习_标准的输入输出.md",
     "学习之旅.md"
