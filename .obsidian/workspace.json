@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "737e6f8417c923a1",
+        "id": "efc4166a48196630",
         "type": "tabs",
         "children": [
           {
-            "id": "27c975225d3f8c77",
+            "id": "0a8fc1262a4b6fd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库mysql/通用语法-多表查询/联合查询.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "联合查询"
-            }
-          },
-          {
-            "id": "1330b89eef286747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库mysql/通用语法-多表查询/连接查询-内连接.md",
+                "file": "数据库mysql/通用语法-多表查询/函数与拓展.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "连接查询-内连接"
+              "title": "函数与拓展"
+            }
+          },
+          {
+            "id": "ee563bfbb73db0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网络编程/git学习/配置git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "配置git"
+            }
+          },
+          {
+            "id": "5f3326447a094366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网络编程/git学习/2. 远程仓库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 远程仓库"
+            }
+          },
+          {
+            "id": "2c2f0c73c09911e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网络编程/git学习/3. 分支管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 分支管理"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,12 +198,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,44 +222,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1330b89eef286747",
+  "active": "2c2f0c73c09911e2",
   "lastOpenFiles": [
-    "数据库mysql/通用语法-多表查询/联合查询.md",
-    "数据库mysql/通用语法-基础操作/DQL-查询.md",
-    "数据库mysql/通用语法-函数/时间函数.md",
-    "数据库mysql/通用语法-函数/数值函数.md",
-    "数据库mysql/通用语法-函数/控制流程函数.md",
-    "数据库mysql/通用语法-多表查询/连接查询-外连接.md",
-    "数据库mysql/通用语法-多表查询/连接查询-自连接.md",
-    "数据库mysql/通用语法-函数/字符串函数.md",
-    "数据库mysql/通用语法-多表查询/连接查询-内连接.md",
-    "数据库mysql/通用语法-基础操作/DML-数据操作-修改.md",
+    "网络编程/git学习/2. 远程仓库.md",
+    "网络编程/git学习/3. 分支管理.md",
+    "网络编程/git学习/1. 第一个git.md",
+    "网络编程/git学习/配置git.md",
+    "网络编程/Linux命令学习.md",
+    "数据库mysql/通用语法-多表查询/函数与拓展.md",
     "数据库mysql/通用语法-多表查询/子查询.md",
+    "网络编程/git学习",
+    "数据库mysql/通用语法-函数/数值函数.md",
     "数据库mysql/通用语法-基础操作/DQL-执行顺序.md",
-    "数据库mysql/通用语法-基础操作/DML-数据操作-添加.md",
-    "数据库mysql/通用语法-基础操作/DDL-数据库操作.md",
-    "数据库mysql/通用语法-基础操作/DML-数据操作-删除.md",
-    "数据库mysql/通用语法-基础操作/DDL-表操作-创建&查询.md",
-    "数据库mysql/通用语法-基础操作/DDL-表操作-删除.md",
-    "数据库mysql/通用语法-基础操作/DDL-表操作-数据类型.md",
-    "数据库mysql/通用语法-基础操作/DDL-表操作-修改.md",
-    "函数与拓展.md",
-    "数据库mysql/通用语法-基础操作/DCL-管理用户.md",
-    "数据库mysql/刷题与经验",
-    "数据库mysql/通用语法-多表查询/多表关系.md",
-    "README.md",
     "数据库mysql/通用语法-约束/外键约束.md",
-    "数据库mysql/通用语法-多表查询",
-    "目的及概念.md",
     "数据库mysql/通用语法-约束/约束.md",
-    "数据库mysql/通用语法-约束",
+    "obsidian模板/表格.md",
+    "数据库mysql/通用语法-多表查询/连接查询-自连接.md",
+    "数据库mysql/通用语法-多表查询/连接查询-内连接.md",
+    "数据库mysql/通用语法-多表查询/连接查询-外连接.md",
+    "数据库mysql/通用语法-多表查询/联合查询.md",
+    "数据库mysql/通用语法-多表查询/多表关系.md",
+    "数据库mysql/通用语法-多表查询",
+    "数据库mysql/通用语法-函数/时间函数.md",
+    "数据库mysql/通用语法-函数/控制流程函数.md",
+    "数据库mysql/通用语法-函数/字符串函数.md",
+    "系统与网络编程/网络编程/线程.md",
+    "系统与网络编程/网络编程/Linux命令学习.md",
+    "系统与网络编程/网络编程",
+    "系统与网络编程",
+    "网络编程/线程与多线程/c++版/未命名.md",
+    "网络编程/线程与多线程/c++版/未命名 1.md",
+    "网络编程/线程与多线程/C语言版",
+    "网络编程/线程与多线程/c++版",
+    "网络编程/线程与多线程",
+    "约束.md",
+    "README.md",
     "数据库mysql/通用语法-约束",
     "shell学习",
     "数据库mysql/通用语法-函数",
-    "obsidian模板",
-    "未命名 2.base",
-    "未命名 1.base",
-    "未命名.base",
     "未命名.canvas",
     "Pasted image 20251231134348.png"
   ]
