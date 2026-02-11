@@ -17,6 +17,7 @@
 
 分组查询：
 	GROUP BY (group by)
+		group by后面的是通过什么进行分组
 		分组字段列表
 	HAVING (having)
 		分组后条件列表
@@ -65,6 +66,12 @@ selcet 字段列表 from 表名 order by 字段1 排序方式1,字段2 排序方
 排序方式：
 	ASC：升序
 	DESC：降序	
+	
+	select customer_number
+	from Orders
+	group by customer_number
+	order by count(order_number) desc
+	limit 1;
 ```
 
 ### 分页查询：

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab4b575fd07ac98",
+        "id": "737e6f8417c923a1",
         "type": "tabs",
         "children": [
           {
-            "id": "d3bcc685f3115971",
+            "id": "27c975225d3f8c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "约束.md",
+                "file": "数据库mysql/通用语法-多表查询/联合查询.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "联合查询"
+            }
+          },
+          {
+            "id": "1330b89eef286747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库mysql/通用语法-多表查询/连接查询-内连接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "约束"
+              "title": "连接查询-内连接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "21778e84d4c16930",
@@ -156,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -180,45 +194,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3bcc685f3115971",
+  "active": "1330b89eef286747",
   "lastOpenFiles": [
-    "数据库mysql/通用语法-基础操作/DDL-表操作-修改.md",
-    "约束.md",
-    "数据库mysql/通用语法-基础操作/DDL-表操作-删除.md",
-    "数据库mysql/通用语法-基础操作/DDL-数据库操作.md",
+    "数据库mysql/通用语法-多表查询/联合查询.md",
+    "数据库mysql/通用语法-基础操作/DQL-查询.md",
+    "数据库mysql/通用语法-函数/时间函数.md",
+    "数据库mysql/通用语法-函数/数值函数.md",
+    "数据库mysql/通用语法-函数/控制流程函数.md",
+    "数据库mysql/通用语法-多表查询/连接查询-外连接.md",
+    "数据库mysql/通用语法-多表查询/连接查询-自连接.md",
+    "数据库mysql/通用语法-函数/字符串函数.md",
+    "数据库mysql/通用语法-多表查询/连接查询-内连接.md",
     "数据库mysql/通用语法-基础操作/DML-数据操作-修改.md",
+    "数据库mysql/通用语法-多表查询/子查询.md",
+    "数据库mysql/通用语法-基础操作/DQL-执行顺序.md",
+    "数据库mysql/通用语法-基础操作/DML-数据操作-添加.md",
+    "数据库mysql/通用语法-基础操作/DDL-数据库操作.md",
+    "数据库mysql/通用语法-基础操作/DML-数据操作-删除.md",
     "数据库mysql/通用语法-基础操作/DDL-表操作-创建&查询.md",
-    "目的及概念.md",
-    "shell学习/参数变量&&位置参数变量.md",
-    "shell学习/流程控制.md",
-    "shell学习/条件判断.md",
-    "shell学习/预定义变量.md",
-    "shell学习/运算符.md",
-    "shell学习/自定义函数.md",
-    "shell学习/read读取.md",
-    "shell学习/shell脚本执行.md",
-    "数据库mysql/通用语法-约束",
-    "shell学习/while循环.md",
-    "shell学习/for循环.md",
-    "shell学习/case.md",
-    "shell学习/单分支&&多分支.md",
-    "注意condition前后要有空格.md",
-    "系统与网络编程/网络编程/线程.md",
-    "数据库mysql/通用语法-函数/函数- 数值函数.md",
-    "数据库mysql/通用语法-函数/函数-时间函数.md",
+    "数据库mysql/通用语法-基础操作/DDL-表操作-删除.md",
+    "数据库mysql/通用语法-基础操作/DDL-表操作-数据类型.md",
+    "数据库mysql/通用语法-基础操作/DDL-表操作-修改.md",
+    "函数与拓展.md",
     "数据库mysql/通用语法-基础操作/DCL-管理用户.md",
-    "shell学习",
-    "数据库mysql/通用语法-函数/函数-控制流程函数.md",
+    "数据库mysql/刷题与经验",
+    "数据库mysql/通用语法-多表查询/多表关系.md",
     "README.md",
+    "数据库mysql/通用语法-约束/外键约束.md",
+    "数据库mysql/通用语法-多表查询",
+    "目的及概念.md",
+    "数据库mysql/通用语法-约束/约束.md",
+    "数据库mysql/通用语法-约束",
+    "数据库mysql/通用语法-约束",
+    "shell学习",
     "数据库mysql/通用语法-函数",
     "obsidian模板",
     "未命名 2.base",
     "未命名 1.base",
     "未命名.base",
     "未命名.canvas",
-    "数据库mysql/通用语法-基础操作",
-    "数据库mysql",
-    "系统与网络编程/网络编程/线程池的原理与实现",
     "Pasted image 20251231134348.png"
   ]
 }
