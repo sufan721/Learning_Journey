@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "737e6f8417c923a1",
+        "id": "cfd47f659590d8e9",
         "type": "tabs",
         "children": [
           {
-            "id": "27c975225d3f8c77",
+            "id": "5b2e77fc05591616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "数据库mysql/力扣刷题/中等.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "中等"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200
   },
   "right": {
     "id": "21778e84d4c16930",
@@ -179,44 +179,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27c975225d3f8c77",
+  "active": "5b2e77fc05591616",
   "lastOpenFiles": [
-    "数据库mysql/力扣刷题/中等.md",
-    "数据库mysql/力扣刷题/简单.md",
-    "obsidian模板/mysql.md",
-    "网络编程/Linux命令学习.md",
-    "README.md",
-    "数据库mysql/通用语法-多表查询/联合查询.md",
-    "软件构件工具cmake学习",
     "数据库mysql/力扣刷题/困难.md",
-    "系统与网络编程/网络编程/线程.md",
-    "数据库mysql/通用语法-多表查询/连接查询-内连接.md",
-    "网络编程/线程与多线程/c++版/未命名.md",
-    "网络编程/线程与多线程/c++版/未命名 1.md",
-    "网络编程/线程与多线程/c++版",
-    "网络编程/git学习/配置git.md",
-    "网络编程/git学习/3. 分支管理.md",
-    "网络编程/git学习/2. 远程仓库.md",
-    "网络编程/git学习/1. 第一个git.md",
-    "网络编程/线程与多线程",
-    "网络编程/git学习",
-    "网络编程",
-    "数据库mysql/通用语法-多表查询/函数与拓展.md",
-    "数据库mysql/力扣刷题",
+    "数据库mysql/力扣刷题/简单.md",
     "数据库mysql/通用语法-基础操作/DQL-查询.md",
-    "数据库mysql/通用语法-函数/时间函数.md",
-    "数据库mysql/通用语法-函数/数值函数.md",
-    "数据库mysql/通用语法-函数/控制流程函数.md",
+    "数据库mysql/通用语法-基础操作/DQL-执行顺序.md",
+    "数据库mysql/通用语法-多表查询/联合查询.md",
     "数据库mysql/通用语法-多表查询/连接查询-外连接.md",
     "数据库mysql/通用语法-多表查询/连接查询-自连接.md",
-    "数据库mysql/通用语法-函数/字符串函数.md",
-    "数据库mysql/通用语法-基础操作/DML-数据操作-修改.md",
-    "数据库mysql/通用语法-多表查询/子查询.md",
-    "数据库mysql/通用语法-基础操作/DQL-执行顺序.md",
-    "数据库mysql/刷题与经验",
+    "数据库mysql/通用语法-多表查询/连接查询-内连接.md",
+    "obsidian模板/mysql.md",
+    "README.md",
+    "网络编程/git学习/2. 远程仓库.md",
+    "网络编程/git学习/1. 第一个git.md",
+    "系统与网络编程/网络编程/1-客户端-服务器-C实现.md",
+    "系统与网络编程/网络编程/0-Linux命令学习.md",
+    "2 -多进程  , 多线程服务器.md",
+    "系统与网络编程/网络编程/线程.md",
+    "多进程.md",
+    "网络编程/线程与进程/多线程",
+    "网络编程/线程与进程/多进程",
+    "一",
+    "网络编程/线程与进程/多线程/C语言版/未命名.md",
+    "redis/什么是redis.md",
+    "redis/未命名.md",
+    "网络编程/Linux命令学习.md",
+    "redis/未命名 1.md",
+    "redis",
+    "数据库mysql/通用语法-基础操作/DML-数据操作-删除.md",
+    "obsidian模板/表格.md",
+    "网络编程/git学习/3. 分支管理.md",
+    "数据库mysql/力扣刷题/中等.md",
+    "数据库mysql/力扣刷题",
+    "网络编程/git学习",
     "数据库mysql/通用语法-多表查询",
-    "数据库mysql/通用语法-约束",
-    "数据库mysql/通用语法-约束",
+    "系统与网络编程/网络编程",
+    "系统与网络编程",
+    "网络编程/线程与进程/多线程/C语言版",
     "未命名.canvas",
     "Pasted image 20251231134348.png"
   ]
