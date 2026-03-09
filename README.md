@@ -4,6 +4,7 @@ MySQL语法学习
 git学习
 shell学习
 ### 待完成：
+redis题目
 shell实战
 MySQL刷题讲解
 
