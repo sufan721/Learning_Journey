@@ -148,16 +148,6 @@
               "icon": "lucide-list",
               "title": "约束 的大纲"
             }
-          },
-          {
-            "id": "2b6d834374dce7e0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
           }
         ],
         "currentTab": 3
@@ -181,6 +171,17 @@
   },
   "active": "5b2e77fc05591616",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "shell学习/预定义变量.md",
+    "shell学习/运算符.md",
+    "shell学习/自定义函数.md",
+    "shell学习/流程控制.md",
+    "shell学习/条件判断.md",
+    "shell学习/参数变量&&位置参数变量.md",
+    "shell学习/shell脚本执行.md",
+    "shell学习/read读取.md",
+    "shell学习",
+    "2 -多进程  , 多线程服务器.md",
     "数据库mysql/力扣刷题/困难.md",
     "数据库mysql/力扣刷题/简单.md",
     "数据库mysql/通用语法-基础操作/DQL-查询.md",
@@ -195,28 +196,17 @@
     "网络编程/git学习/1. 第一个git.md",
     "系统与网络编程/网络编程/1-客户端-服务器-C实现.md",
     "系统与网络编程/网络编程/0-Linux命令学习.md",
-    "2 -多进程  , 多线程服务器.md",
     "系统与网络编程/网络编程/线程.md",
     "多进程.md",
     "网络编程/线程与进程/多线程",
     "网络编程/线程与进程/多进程",
     "一",
-    "网络编程/线程与进程/多线程/C语言版/未命名.md",
-    "redis/什么是redis.md",
-    "redis/未命名.md",
-    "网络编程/Linux命令学习.md",
-    "redis/未命名 1.md",
     "redis",
-    "数据库mysql/通用语法-基础操作/DML-数据操作-删除.md",
-    "obsidian模板/表格.md",
-    "网络编程/git学习/3. 分支管理.md",
-    "数据库mysql/力扣刷题/中等.md",
     "数据库mysql/力扣刷题",
     "网络编程/git学习",
     "数据库mysql/通用语法-多表查询",
     "系统与网络编程/网络编程",
     "系统与网络编程",
-    "网络编程/线程与进程/多线程/C语言版",
     "未命名.canvas",
     "Pasted image 20251231134348.png"
   ]
