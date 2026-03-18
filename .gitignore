@@ -1,8 +1,5 @@
 # 忽略 Obsidian 的 UI 状态文件
-.obsidian\workspace.json
-.obsidian\workspace-mobile.json
-.obsidian\hotkeys.json
-.obsidian*
+.obsidian/
 
 # 如果你还有 Python 环境，顺便也忽略了
 .venv/
