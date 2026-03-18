@@ -30,7 +30,7 @@
 ```
 
 ### 基本查询：
-```
+```mysql
 select 字段... from 表名;
 select * from 表名;
 起别名
@@ -41,12 +41,12 @@ select distinct 字段列表 from 表名;
 ```
 
 ### 条件查询：
-```
+```mysql
 select 字段列表 from 表名 where 条件列表;
 ```
 
 ### 聚合函数：
-```
+```mysql
 select 聚合函数(字段列表)from 表名 
 count 计数
 max 最大值
@@ -56,12 +56,12 @@ sum 求和
 ```
 
 ### 分组查询：
-```
+```mysql
 select 字段列表 from 表名[where 条件]group by 分组字段名 [having 分组后过滤条件];
 ```
 
 ### 排序查询：
-```
+```mysql
 selcet 字段列表 from 表名 order by 字段1 排序方式1,字段2 排序方式2;
 排序方式：
 	ASC：升序
@@ -75,7 +75,7 @@ selcet 字段列表 from 表名 order by 字段1 排序方式1,字段2 排序方
 ```
 
 ### 分页查询：
-```
+```mysql
 select 字段列表 from 表名 limit 起始索引, 查询记录数;
 like 模糊搜索
 注：
