@@ -1,6 +1,5 @@
-# 忽略 Obsidian 的 UI 状态文件
+
 .obsidian/
 
-# 如果你还有 Python 环境，顺便也忽略了
 .venv/
 __pycache__/
