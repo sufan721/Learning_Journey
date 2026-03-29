@@ -46,3 +46,6 @@ services:
     networks: app-network:
     driver: bridge
 ```
+
+
+![ dockercompose的使用方法](文档图片/docker_compose.png )
