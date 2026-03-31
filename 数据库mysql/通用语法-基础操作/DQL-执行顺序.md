@@ -1,17 +1,17 @@
 执行顺序：
 ```
-FROM(from)
+from
 	表名列表
-WHERE(where)
+where
 	条件列表
-GROUP BY (group by)
+group by
 	分组字段列表
-HAVING (having)
+having
 	分组后条件列表
-SELECT(select)
+select
 	字段列表
-ORDER BY (order by)
+order by
 	排序字段列表
-LIMIT (limit)
+limit
 	分页参数
 ```

@@ -35,7 +35,6 @@ select 字段... from 表名;
 select * from 表名;
 起别名
 select 字段 as 别名 from 表名;
-
 去除重复记录
 select distinct 字段列表 from 表名;
 ```
