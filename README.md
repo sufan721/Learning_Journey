@@ -1,24 +1,46 @@
-# Learning Journey Documentation
+# 📚 学习之旅
 
-## Repository Structure
-- `src/`: Contains source code files.
-- `docs/`: Documentation files.
-- `tests/`: Contains unit tests and other testing-related files.
+> 记录我的的学习旅程，从基础知识到实战应用的每一步。
 
-## Completed Topics
-- Python Basics
-- Object-Oriented Programming
-- Data Structures and Algorithms
+## 简介
+这个仓库用于整理和记录我在学习软件开发过程中的笔记、代码和项目。涵盖数据库、系统编程、网络编程等多个领域。
 
-## In-Progress Topics
-- Web Development with Flask
-- API Development
-- Machine Learning Basics
+## 📂 目录结构
 
-## Learning Goals
-1. Complete the Flask project by [Date: 2026-05-30].
-2. Understand RESTful APIs and implement them by [Date: 2026-06-15].
-3. Gain knowledge in Machine Learning algorithms by [Date: 2026-07-01].
+| 文件夹 | 描述 |
+|-------|------|
+| 力扣刷题/ | LeetCode 算法题目解决方案 |
+| 数据库mysql/ | MySQL 数据库学习与实战 |
+| shell学习/ | Shell 脚本编程基础 |
+| docker学习/ | Docker 容器化技术 |
+| 网络编程/ | 网络编程基础 |
+| 系统与网络编程/ | 系统级编程与网络应用 |
+| obsidian模板/ | Obsidian 笔记模板 |
+| 文档图片/ | 学习文档和配图 |
 
-## Update Timestamp
-- Last Update: 2026-04-19 13:47:13 UTC
+## ✅ 已完成内容
+
+### MySQL 语法学习
+- [ ] 待补充完成内容
+
+### Git 学习
+- [ ] 待补充完成内容
+
+### Shell 学习
+- [ ] 待补充完成内容
+
+## 📋 准备完成内容
+
+- [ ] Redis 题目
+- [ ] Shell 实战
+- [ ] MySQL 刷题讲解
+- [ ] Docker 深入学习
+- [ ] 网络编程实战
+
+## 🚀 目前状态
+
+正在转向 AI 应用开发中...
+
+---
+
+**最后更新**: 2026-04-19
