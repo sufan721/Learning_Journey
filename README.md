@@ -1,15 +1,24 @@
-在这主要记录我学习新东西的一些笔记。
-### 现完成：
-MySQL语法学习
-git学习
-shell学习
-### 待完成：
-redis题目
-shell实战
-MySQL刷题讲解
+# Learning Journey Documentation
 
+## Repository Structure
+- `src/`: Contains source code files.
+- `docs/`: Documentation files.
+- `tests/`: Contains unit tests and other testing-related files.
 
-正在转ai应用开发中。。。
+## Completed Topics
+- Python Basics
+- Object-Oriented Programming
+- Data Structures and Algorithms
 
+## In-Progress Topics
+- Web Development with Flask
+- API Development
+- Machine Learning Basics
 
+## Learning Goals
+1. Complete the Flask project by [Date: 2026-05-30].
+2. Understand RESTful APIs and implement them by [Date: 2026-06-15].
+3. Gain knowledge in Machine Learning algorithms by [Date: 2026-07-01].
 
+## Update Timestamp
+- Last Update: 2026-04-19 13:47:13 UTC
