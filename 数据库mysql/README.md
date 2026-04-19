@@ -52,43 +52,6 @@
 - 性能调优案例
 - 常见问题解决
 
-## 🔧 常用 MySQL 命令
-
-### 连接数据库
-```bash
-mysql -u root -p
-mysql -h localhost -u root -p database_name
-```
-
-### 基本操作
-```sql
--- 创建数据库
-CREATE DATABASE test_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-
--- 使用数据库
-USE test_db;
-
--- 创建表
-CREATE TABLE users (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(100) NOT NULL,
-    email VARCHAR(100) UNIQUE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- 插入数据
-INSERT INTO users (name, email) VALUES ('张三', 'zhangsan@example.com');
-
--- 查询数据
-SELECT * FROM users WHERE name = '张三';
-
--- 更新数据
-UPDATE users SET email = 'new_email@example.com' WHERE id = 1;
-
--- 删除数据
-DELETE FROM users WHERE id = 1;
-```
-
 ## 📊 性能优化要点
 
 - **索引优化** - 合理使用单列索引、复合索引
@@ -133,15 +96,3 @@ DELETE FROM users WHERE id = 1;
 
 **最后更新**: 2026-04-19  
 **学习状态**: 持续学习中 📚
-```
-
-现在您的 `数据库mysql` 文件夹中已有一份详细的 README.md，包含：
-
-✨ **主要内容：**
-- MySQL 学习的完整学习路线（4个阶段）
-- 常用命令和代码示例
-- 性能优化要点
-- 学习进度追踪
-- 推荐学习资源
-
-您可以根据实际学习进度随时更新其中的内容！

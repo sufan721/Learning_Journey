@@ -35,7 +35,16 @@
 - [ ] Shell 实战
 - [ ] MySQL 刷题讲解
 - [ ] Docker 深入学习
-- [ ] 网络编程实战
+- [ ] 网络编程实战 
+- [ ] Web 框架 - Flask/Django/FastAPI
+- [ ] API 设计与开发 - RESTful API
+- [ ] 数据库优化和性能提升必需
+- [ ] Linux 系统管理
+- [ ] 深化 MySQL 知识
+- [ ] 消息队列 - RabbitMQ/Kafka
+- [ ] 监控同样 - Prometheus/Grafana
+- [ ] 容器编排 - Kubernetes
+- [ ] CI/CD 流程 - Jenkins/GitHub Actions
 
 ## 🚀 目前状态
 
