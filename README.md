@@ -35,6 +35,14 @@ Learning_Journey/
 │   └── Git 学习（基础/远程仓库/分支管理）
 ├── 系统与网络编程/           # 系统级网络编程
 │   └── 客户端-服务器 C 语言实现
+├── redis复习/                # Redis 系统复习
+│   ├── 数据结构、持久化、缓存策略
+│   ├── 集群与高可用、事务与 Lua、Stream
+│   └── 性能优化、源码导读
+├── rabbitmq复习/             # RabbitMQ 系统复习
+│   ├── 核心概念、工作模式
+│   ├── 消息可靠性、集群与高可用
+│   └── 高级特性、实战与 SpringBoot 集成
 ├── 力扣刷题/                 # C/C++ 算法练习
 ├── obsidian模板/             # Obsidian 笔记模板
 └── 文档图片/                 # 学习文档配图
@@ -57,6 +65,21 @@ Learning_Journey/
 | 力扣刷题 | 简单 15+ 题、中等 15+ 题、困难题目 | 🔄 进行中 |
 
 > 详见 [数据库mysql/README.md](数据库mysql/README.md)
+
+### 🐰 RabbitMQ
+
+从核心概念到生产实战的系统学习：
+
+| 模块 | 内容 | 进度 |
+|------|------|------|
+| 核心概念 | AMQP 协议、Exchange/Queue/Binding、Connection/Channel | ✅ 完成 |
+| 工作模式 | Simple/Work Queues/Pub-Sub/Routing/Topics/RPC | ✅ 完成 |
+| 消息可靠性 | Publisher Confirm、持久化、手动 ACK、死信队列 | ✅ 完成 |
+| 集群与高可用 | 集群架构、Mirror Queue、Quorum Queue、网络分区 | ✅ 完成 |
+| 高级特性 | TTL、延迟队列、优先级、Lazy Queue、Alternate Exchange | ✅ 完成 |
+| 实战集成 | Spring Boot 集成、并发调优、幂等性、监控告警 | ✅ 完成 |
+
+> 详见 [rabbitmq复习/](rabbitmq复习/)
 
 ### 🐳 Docker
 
@@ -117,18 +140,19 @@ Linux Shell 编程基础：
 - [x] Git 入门到分支管理
 - [x] Linux 常用命令
 - [x] 网络编程 C/S 模型（C 语言）
+- [x] RabbitMQ 系统复习（核心概念/工作模式/可靠性/集群/高级特性/实战集成）
 
 ### 🔄 进行中
 
 - [ ] MySQL 力扣刷题 — 简单题完成 14/18，中等题进行中，困难题待开始
-- [ ] Redis 入门学习
+- [ ] Redis 深入实战
 - [ ] Web 框架学习（Flask / Django / FastAPI）
 - [ ] API 设计与开发（RESTful）
 
 ### 📋 计划中
 
 - [ ] MySQL 高级优化（索引 / 查询优化 / 事务与锁）
-- [ ] 消息队列（RabbitMQ / Kafka）
+- [ ] 消息队列实战（Kafka）
 - [ ] 容器编排（Kubernetes）
 - [ ] CI/CD 流程（Jenkins / GitHub Actions）
 - [ ] 监控告警（Prometheus / Grafana）
@@ -162,5 +186,5 @@ Linux Shell 编程基础：
 
 ---
 
-**最后更新**: 2026-07-03
+**最后更新**: 2026-08-11
 **学习状态**: 持续学习中 📚
